@@ -25,6 +25,7 @@ To customise:
 
 ## Usage
 
+Basic - Executable file:
 1. Run the AutoHotkey script by double clicking 'lookup.ahk'.
 2. Copy a word to the clipboard.
 3. Press CTRL+Shift+S to trigger the dictionary search.
