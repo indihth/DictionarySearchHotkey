@@ -6,7 +6,7 @@ A Python script that allows you to search for definitions of German words using 
 
 The "Dictionary Search Hotkey" script is a Python program that utilizes web scraping to retrieve word definitions from an online dictionary website (https://de.thefreedictionary.com/). It provides a convenient way to trigger the dictionary search using a customizable hotkey combination. The results are displayed in an HTML page, which is automatically opened in the default web browser. A personal project to learn Python with and create a useful application for my language learning needs. I would like to expand on the project, make it more customisable and possible integration with Anki for card creation.
 
-![Dictionary definition](dictionarySearch.png "Results Page")
+<img src="dictionarySearch.png" width="300">
 
 ## Features
 
