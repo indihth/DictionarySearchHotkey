@@ -18,16 +18,11 @@ The "Dictionary Search Hotkey" script is a Python program that utilizes web scra
 
 ## Installation
 
-To run with fixed settings:
-1. Download DictionarySearch.exe file from the output folder
-
-To customise:
-1. Clone the repository or download the script files.
-2. Install the required Python libraries using the command: `pip install -r requirements.txt`.
+1. Clone the repository or download files.
+2. If wanting to customise, install the required Python libraries listed under dependencies
 
 ## Usage
 
-Basic - Executable file:
 1. Run the AutoHotkey script by double clicking 'lookup.ahk'.
 2. Copy a word to the clipboard.
 3. Press CTRL+Shift+S to trigger the dictionary search.
